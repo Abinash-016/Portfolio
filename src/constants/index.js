@@ -93,8 +93,10 @@ export const mySocials = [
 export const experiences = [
   {
     title: "Full Stack development ",
-    job: "Student",
+    job: "Student at",
     date: "2022-2026",
+    logo: "/assets/logos/cutm-logo.jpg",
+    collegeLink: "https://cutm.ac.in/", 
     contents: [
       "Built strong foundations in Java programming and Object-Oriented Programming (OOP) concepts.",
       "Practiced Data Structures & Algorithms (DSA) using Java to strengthen problem-solving abilities.",
