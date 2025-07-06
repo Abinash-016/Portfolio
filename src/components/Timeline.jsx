@@ -45,7 +45,7 @@ export const Timeline = ({ data }) => {
                       <img
                         src={item.logo}
                         alt="College Logo"
-                        className="w-10 h-10 rounded-full border border-white hover:scale-105 transition"
+                        className="w-10 h-10 rounded-full border hover:scale-115 transition"
                       />
                     </a>
                   )}
