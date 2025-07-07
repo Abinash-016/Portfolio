@@ -80,7 +80,7 @@ export const mySocials = [
 
   {
     name: "Linkedin",
-    href: "www.linkedin.com/in/abinash-mohapatra-73a568248",
+    href: "https://www.linkedin.com/in/abinash-mohapatra-73a568248",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
