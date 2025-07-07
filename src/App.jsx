@@ -6,6 +6,7 @@ import Projects from "./sections/Projects";
 import Experiences from "./sections/Experiences";
 import Contact from "./sections/Contact";
 import Footer from './sections/Footer';
+import { Analytics } from "@vercel/analytics/next"
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Experiences />
       <Contact />
       <Footer/>
+      <Analytics/>
     </div>
   );
 };
